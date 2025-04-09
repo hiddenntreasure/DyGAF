@@ -1,5 +1,5 @@
-# DyGAF: Dynamic Gene Attention Focus
-
+# Dynamic Gene Attention Focus (DyGAF): Enhancing Biomarker Identification Through Dual-Model Attention Networks
+**Article DOI:** [https://doi.org/10.1177/11779322251325390](https://doi.org/10.1177/11779322251325390)
 DyGAF is a novel model designed to address biomarker detection, disease progression reporting, and diagnostics by analyzing gene expression data. It leverages dual-model attention-based neural networks and machine learning algorithms to enhance biomarker identification and ranking. By utilizing attention mechanisms, DyGAF not only identifies critical genes but also ranks them by significance, providing a comprehensive list of top genes for disease detection and prognosis.
 DyGAF also showed promise in classifying gene expression profiles for diagnosing COVID-19 patients, outperforming conventional models. It represents a significant advancement in genomic research, offering a precise tool for identifying key genetic markers and uncovering complex biological insights.
 
